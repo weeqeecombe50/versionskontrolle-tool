@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo 'No tests specified' && exit 0"
   },
-  "author": "Ihr Name",
+  "author": "Your Name",
   "license": "MIT",
   "dependencies": {}
 }
