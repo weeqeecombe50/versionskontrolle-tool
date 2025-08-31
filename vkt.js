@@ -10,4 +10,5 @@ function startGUI() {
     // Logic for graphical user interface
 }
 
+// Exporting the functions for use in other modules
 module.exports = { startCLI, startGUI };
